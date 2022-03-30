@@ -1,13 +1,13 @@
-@import url("https://rstar284.github.io/Tokyo-Night-Discord/main.css");
+@import url("https://cdn.jsdelivr.net/gh/rstar284/Tokyo-Night-Discord@latest/main.css");
 
 @import url("https://mr-miner1.github.io/cooler-activity-status/activity-cards.theme.css");
 @import url("https://nyri4.github.io/Discolored/main.css");
 
 /* Syntax Highlight, get hljs styling with Tokyo Night scheme (Enabled by default) */
-@import url("https://rstar284.github.io/Tokyo-Night-Discord/addons/syntax-highlight.css");
+@import url("https://cdn.jsdelivr.net/gh/rstar284/Tokyo-Night-Discord@latest/addons/syntax-highlight.css");
 
-/* Monospace, use monospaced font (JetBrains Mono) instead the default one */
-@import url("https://rstar284.github.io/Tokyo-Night-Discord/addons/monospace-fonts.css");
+/* Monospace, use monospaced font (Hack Nerd Font Mono) instead the default one */
+@import url("https://cdn.jsdelivr.net/gh/rstar284/Tokyo-Night-Discord@latest/addons/monospace-fonts.css");
 
 /* ==== Discord Variables ==== */
 .theme-dark { /* Dark Mode */
